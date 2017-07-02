@@ -1,0 +1,21 @@
+{
+  "name": "ical-booking",
+  "version": "0.0.5",
+  "description": "Get bookings from AirBnB & HomeAway calendars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gijs",
+  "license": "MIT",
+  "keywords": ["booking", "airbnb", "homeaway", "ical", "calendar", "intelligence company"],
+  "dependencies": {
+    "icalendar": ">=0.7.1",
+    "request":">=2.81.0"
+  },
+  "repository":
+    { 
+      "type" : "git", 
+      "url" : "https://github.com/intelligencecompany/cal-booking.git"
+    }
+}
